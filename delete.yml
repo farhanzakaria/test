@@ -2,4 +2,4 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: aks-my01-sea-u-aks01-jptihg33-oneagent*
+  name: dynatrace-operator*
