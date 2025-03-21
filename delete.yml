@@ -7,9 +7,9 @@ metadata:
 apiVersion: v1
 kind: Pod
 metadata:
-  name: b
+  name: aks-my01-sea-u-aks01-jptihg33-oneagent-6vt9h
 ---
 apiVersion: v1
 kind: Pod
 metadata:
-  name: c
+  name: aks-my01-sea-u-aks01-jotihg33-oneagent-95dx6
