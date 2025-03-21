@@ -2,14 +2,4 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  name: aks-my01-sea-u-aks01-jptihg33-oneagent-nnvnp
----
-apiVersion: v1
-kind: Pod
-metadata:
-  name: aks-my01-sea-u-aks01-jptihg33-oneagent-6vt9h
----
-apiVersion: v1
-kind: Pod
-metadata:
-  name: aks-my01-sea-u-aks01-jotihg33-oneagent-95dx6
+  name: aks-my01-sea-u-aks01-jptihg33-oneagent*
