@@ -1,0 +1,15 @@
+# delete.yml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: aks-my01-sea-u-aks01-jptihg33-oneagent-nnvnp
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: b
+---
+apiVersion: v1
+kind: Pod
+metadata:
+  name: c
